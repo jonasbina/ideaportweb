@@ -18,6 +18,11 @@ export default function Test() {
     <p>no one will follow your activities</p>
     <h2>It's fast</h2>
     <h2>Messenger is TOTALY ENCRYPTED</h2>
+    <h2></h2>
+    <h2></h2>
+    <h2>App is for free</h2>
+    <p>Idea port is fully for free</p>
+    <p>App is without ads</p>
     </div>
      ) 
 }
