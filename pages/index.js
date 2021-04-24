@@ -16,18 +16,18 @@ export default function Home() {
 
         
         <div className={styles.grid}>
-          <a href="https://ideaport.vercel.app/aboutapp" className={styles.card}>
+          <a href="/aboutapp" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find informations about our app.</p>
           </a>
 
-          <a href="https://ideaport.vercel.app/platforms" className={styles.card}>
+          <a href="/platforms" className={styles.card}>
             <h3>App &rarr;</h3>
             <p>Find on what platforms is our app</p>
           </a>
 
           <a
-            href="https://ideaport.vercel.app/aboutcreator"
+            href="/aboutcreator"
             className={styles.card}
           >
             <h3>About Creator &rarr;</h3>
@@ -35,11 +35,11 @@ export default function Home() {
           </a>
  
           <a
-            href="https://ideaport.vercel.app/aboutcreator"
+            href="/download"
             className={styles.card}
           >
             <h3>Download &rarr;</h3>
-            <p>Download Idea</p>
+            <p>Download Idea Port</p>
           </a>
         </div>
       </main>
