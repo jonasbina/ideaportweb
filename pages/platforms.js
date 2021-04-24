@@ -8,12 +8,9 @@ export default function Home() {
         <title>Idea Port platforms</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Image
-        src="android.png"
-        alt="Android Logo"
-        width={500}
-        height={500}
-      />
+      <p>
+          App is curently in development. In future it will by on Android
+      </p>
         </div>
         
     )
