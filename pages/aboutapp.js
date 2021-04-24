@@ -14,9 +14,15 @@ export default function Test() {
     <p>Now it has functional messenger</p>
     <p>Messenger start works 20th of March 2021 at like 13 o'clock</p>
     <h3>In what is Idea Port Better  :</h3>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
     <h2>It's totaly private</h2>
     <p>no one will follow your activities</p>
     <h2>It's fast</h2>
+    <h1></h1>
+    <h1></h1>
     <h2>Messenger is TOTALY ENCRYPTED</h2>
     <h2></h2>
     <h2></h2>
