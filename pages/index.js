@@ -22,7 +22,7 @@ export default function Home() {
           </a>
 
           <a href="https://ideaport.vercel.app/platforms" className={styles.card}>
-            <h3>App</h3>
+            <h3>App &rarr;</h3>
             <p>Find on what platforms is our app</p>
           </a>
 
@@ -38,8 +38,8 @@ export default function Home() {
             href="https://ideaport.vercel.app/aboutcreator"
             className={styles.card}
           >
-            <h3>Download &rarr;</h3>
-            <p>Download Idea Port</p>
+            <h3>Download &rarr;</h3> 
+            <p>Download Idea</p>
           </a>
         </div>
       </main>
