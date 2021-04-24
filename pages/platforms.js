@@ -10,8 +10,6 @@ export default function Home() {
       <Image
         src="/android.png"
         alt="Android Logo"
-        width={500}
-        height={500}
       />
         </div>
         
