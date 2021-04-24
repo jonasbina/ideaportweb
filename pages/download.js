@@ -1,0 +1,8 @@
+export default function Home() {
+    return (
+        <Head>
+        <title>Downloads</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+    )
+}
