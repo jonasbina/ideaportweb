@@ -38,7 +38,7 @@ export default function Home() {
             href="https://ideaport.vercel.app/aboutcreator"
             className={styles.card}
           >
-            <h3>Download &rarr;</h3> 
+            <h3>Download &rarr;</h3>
             <p>Download Idea</p>
           </a>
         </div>
