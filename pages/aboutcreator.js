@@ -9,7 +9,7 @@ export default function Home() {
         <title>About Creator</title> 
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <title>About Creator</title>
+      <h1>About Creator</h1>
       <p>My name is Jonas Bina</p>
       <p>I am 11 yo</p>
       <p>I like programming</p>
