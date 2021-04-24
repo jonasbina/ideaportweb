@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Image
-        src="/android.png"
+        src="android.png"
         alt="Android Logo"
         width={500}
         height={500}
