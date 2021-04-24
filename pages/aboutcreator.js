@@ -12,6 +12,5 @@ export default function Home() {
       <p>My name is Jonas Bina</p>
       <p>I am 11 yo</p>
       <p>I like programming</p>
-      
       </div>
     )}
